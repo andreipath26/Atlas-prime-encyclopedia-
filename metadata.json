@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Prime GIS",
+  "description": "Interactive GIS atlas and encyclopedia exploring science, botany, history, and geography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
